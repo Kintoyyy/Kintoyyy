@@ -21,7 +21,7 @@ Hey! I'm a self-taught developer from the Philippines. I config Mikrotik routers
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,bootstrap,tailwind,html,css,javascript,jquery,php,mysql,sqlite,github,vscode,linux,discord" />
+    <img src="https://skillicons.dev/icons?i=arduino,git,docker,bootstrap,tailwind,html,css,javascript,jquery,php,cpp,mysql,sqlite,github,vscode,linux,discord" />
   </a>
 </p>
 
