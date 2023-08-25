@@ -1,6 +1,4 @@
-# 🐈 Kintoyyy
-
-**`Dumb Developer :)`**
+#  Hi! I'm Kent!😃
 
 <div align="center">
   <img src="https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif" alt="Banner" width="400" />
@@ -12,16 +10,32 @@
   </a>
 </h1>
 
-Hey! I'm a self-taught developer from the Philippines. I config Mikrotik routers Feel free to contact me! :)
+Hello there! I'm a dedicated self-taught developer based in the Philippines. My expertise primarily revolves around backend web development and the exciting world of IoT devices. I'm also well-versed in configuring MikroTik routers. If you're looking to enhance your digital projects or need assistance with intricate technicalities, I'm your person!
+
+Don't hesitate to connect with me. Whether it's for collaboration, knowledge sharing, or sparking insightful discussions about all things tech, I'm here and eager to engage. Let's join forces in the realm of coding! 🚀
+
+
+    Facebook: @Kint.oyyy
+    Telegram: @Kintoyyy
+    Email: kent.oyyyyyyyy@gmail.com
+    Location: Philippines 🌴
 
 
 <img src="https://img.shields.io/discord/707149842438422589?color=%20%239090f4&label=Discord&style=for-the-badge"/>
 
-### 🧰 Languages and Tools
+### 🧰 Languages and tools I use
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,git,docker,bootstrap,tailwind,html,css,javascript,jquery,php,cpp,mysql,sqlite,github,vscode,linux,discord" />
+    <img src="https://skillicons.dev/icons?i=arduino,git,docker,bootstrap,tailwind,html,css,javascript,jquery,php,mysql,sqlite,github,vscode,postman,linux,vercel,replit,discord" />
+  </a>
+</p>
+
+### 🎓 Currently Learning
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=laravel,nodejs,react,vue,cpp,c," />
   </a>
 </p>
 
