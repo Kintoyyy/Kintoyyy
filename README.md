@@ -23,26 +23,55 @@ Don't hesitate to connect with me. Whether it's for collaboration, knowledge sha
 
 <img src="https://img.shields.io/discord/707149842438422589?color=%20%239090f4&label=Discord&style=for-the-badge"/>
 
-### 🧰 Languages and tools I use
+#  ⚙️ Tech Stack
 
+## 🗣️ Language
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,git,docker,bootstrap,tailwind,html,css,javascript,jquery,php,mysql,sqlite,github,vscode,postman,linux,vercel,replit,discord" />
-  </a>
-</p>
-
-### 🎓 Currently Learning
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,nodejs,react,vue,cpp,c," />
+    <img src="https://skillicons.dev/icons?i=c,cpp,arduino,php,laravel,javascript,jquery,mysql,sqlite,bootstrap,tailwind,html,css" />
   </a>
 </p>
 
 <br />
 
-#
-### 📊 Stats
+## 🧰 Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,bash,npm,postman,stackoverflow,md,notion,windows,linux,debian,kali,docker,vercel,netlify,replit," />
+  </a>
+</p>
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kintoyyy&show_icons=true&theme=dark&hide_border=true)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Kintoyyy&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<br />
+
+## 🎓 Currently Learning
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,react,vue," />
+  </a>
+</p>
+
+<br />
+
+# 📊 Stats
+
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-profile-trophy.vercel.app/?username=Kintoyyy&theme=dracula&no-bg=true&no-frame=true">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=Kintoyyy&show_icons=true&count_private=true&theme=dracula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Kintoyyy&layout=compact&hide_border=true&theme=dracula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=Kintoyyy&theme=dracula&hide_border=true&background=FFFFFF00">
+  <br>
+  <br>
+  <a href="https://buymeacoffee.com/kintoyyy"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" height="50" width="210" alt="kintoyyy" /></a>
+</p>
+
+# 💫 Top Repositories
+
+<p align="center">
+  <a href="https://github.com/kintoyyy/AZK-Manager">
+    <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/pin/?username=kintoyyy&repo=AZK-Manager&theme=dracula&hide_border=true">
+  </a>
+  <a href="https://github.com/kintoyyy/Telegram-Chat-Widget">
+    <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/pin/?username=kintoyyy&repo=Telegram-Chat-Widget&theme=dracula&hide_border=true">
+  </a>
+</p>
