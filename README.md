@@ -21,7 +21,8 @@ Don't hesitate to connect with me. Whether it's for collaboration, knowledge sha
     Location: Philippines 🌴
 
 
-<img src="https://img.shields.io/discord/707149842438422589?color=%20%239090f4&label=Discord&style=for-the-badge"/>
+<img src="https://img.shields.io/discord/707149842438422589?color=%20%239090f4&label=Discord&style=for-the-badge"/> <img href="https://codetime.dev" alt="CodeTime Badge" src="https://img.shields.io/endpoint?style=for-the-badge&color=222&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D26072%26project%3D%26in=0">
+
 
 #  ⚙️ Tech Stack
 
