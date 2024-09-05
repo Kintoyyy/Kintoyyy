@@ -29,7 +29,7 @@ Don't hesitate to connect with me. Whether it's for collaboration, knowledge sha
 ## 🗣️ Language
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,arduino,php,laravel,javascript,jquery,mysql,sqlite,bootstrap,tailwind,html,css" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,arduino,php,laravel,javascript,jquery,mysql,sqlite,bootstrap,tailwind,htmx,html,css,materialui" />
   </a>
 </p>
 
@@ -38,7 +38,7 @@ Don't hesitate to connect with me. Whether it's for collaboration, knowledge sha
 ## 🧰 Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,bash,npm,postman,stackoverflow,md,notion,windows,linux,debian,kali,docker,vercel,netlify,replit," />
+    <img src="https://skillicons.dev/icons?i=vscode,git,github,bash,npm,postman,stackoverflow,md,notion,windows,linux,debian,kali,raspberrypi,docker,vercel,netlify,replit,cloudflare,grafana,prometheus" />
   </a>
 </p>
 
@@ -48,7 +48,7 @@ Don't hesitate to connect with me. Whether it's for collaboration, knowledge sha
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,react,vue," />
+    <img src="https://skillicons.dev/icons?i=nodejs,vue,java" />
   </a>
 </p>
 
