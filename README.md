@@ -29,7 +29,7 @@ Don't hesitate to connect with me. Whether it's for collaboration, knowledge sha
 ## 🗣️ Language
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,arduino,php,laravel,javascript,jquery,mysql,sqlite,bootstrap,tailwind,htmx,html,css,materialui" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,arduino,php,laravel,javascript,jquery,mysql,sqlite,bootstrap,tailwind,htmx,html,css,materialui" />
   </a>
 </p>
 
@@ -48,7 +48,7 @@ Don't hesitate to connect with me. Whether it's for collaboration, knowledge sha
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,vue,java" />
+    <img src="https://skillicons.dev/icons?i=nodejs,mongodb,react,shadcn" />
   </a>
 </p>
 
