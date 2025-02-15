@@ -10,9 +10,9 @@
   </a>
 </h1>
 
-Hello there! I'm a dedicated self-taught developer based in the Philippines. My expertise primarily revolves around backend web development and the exciting world of IoT devices. I'm also well-versed in configuring MikroTik routers. If you're looking to enhance your digital projects or need assistance with intricate technicalities, I'm your person!
+I'm a passionate self-taught developer and network engineer based in the Philippines. With a strong foundation in backend web development and hands-on experience in the IoT (Internet of Things) space, I thrive on building robust, scalable, and innovative digital solutions.
 
-Don't hesitate to connect with me. Whether it's for collaboration, knowledge sharing, or sparking insightful discussions about all things tech, I'm here and eager to engage. Let's join forces in the realm of coding! 🚀
+I’m also a MikroTik Certified Network Associate (MTCNA) and MikroTik Certified Routing Engineer (MTCRE), specializing in configuring and optimizing MikroTik routers for high-performance networking. Whether it's designing intricate network architectures or troubleshooting complex systems, I bring a meticulous and solution-oriented approach to every project.
 
 
     Facebook: @Kint.oyyy
