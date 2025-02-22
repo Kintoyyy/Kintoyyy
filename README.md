@@ -29,7 +29,7 @@ I’m also a MikroTik Certified Network Associate (MTCNA) and MikroTik Certified
 ## 🗣️ Language
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,arduino,php,laravel,javascript,jquery,mysql,sqlite,bootstrap,tailwind,htmx,html,css,materialui" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,java,c,cpp,arduino,javascript,react,nodejs,express,mysql,mongodb,bootstrap,tailwind," />
   </a>
 </p>
 
@@ -38,17 +38,7 @@ I’m also a MikroTik Certified Network Associate (MTCNA) and MikroTik Certified
 ## 🧰 Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,bash,npm,postman,stackoverflow,md,notion,windows,linux,debian,kali,raspberrypi,docker,vercel,netlify,replit,cloudflare,grafana,prometheus" />
-  </a>
-</p>
-
-<br />
-
-## 🎓 Currently Learning
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,mongodb,react,shadcn" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,bash,npm,postman,windows,linux,debian,ubuntu,vercel,cloudflare,docker" />
   </a>
 </p>
 
