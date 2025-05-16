@@ -41,13 +41,6 @@ const info = {
             link: "https://kintoyyy.github.io/Telegram-Chat-Widget/"
         },
         {
-            title: "SUMO BOT",
-            description: "As a senior high school student, I represented UCLM in a Sumobot competition and competed in the college category. Despite being a first-time competitor, I secured 3rd place, showcasing my skills in robotics and problem-solving against more experienced teams.",
-            technologies: "ARDUINO, 3D PRINTING, 3D DESIGN",
-            github: "https://www.facebook.com/media/set?vanity=cituicpep&set=a.208234611995321",
-            link: "https://www.facebook.com/media/set?vanity=cituicpep&set=a.208234611995321"
-        },
-        {
             title: "CODESHUM",
             description: "CodeShum is a personal project inspired by the original CodeChum. Created for fun and as a self-challenge, this project aims to replicate the features and functionality of CodeChum, providing a platform for coding challenges and enhancing my programming skills.",
             technologies: "REACT JS, EXPRESS, MONGODB",
@@ -55,11 +48,11 @@ const info = {
             link: "https://codeshum.vercel.app/editor"
         },
         {
-            title: "AZK TECH VPN Service",
-            description: "Azk Tech VPN Service is a VPN service that provides secure and private access to the microtik network.",
-            technologies: "Wireguard, MikroTik, OpenVPN",
-            github: "https://forms.gle/3X1DxbfwrGobBKbe9",
-            link: "https://forms.gle/3X1DxbfwrGobBKbe9"
+            title: "MikroTik LibreQos Integration",
+            description: "MikroTik LibreQos Integration is a project that focuses on integrating MikroTik routers with the LibreQos QoS system, providing enhanced traffic management and prioritization for ISP networks.",
+            technologies: "MikroTik, Python, LibreQos",
+            github: "https://github.com/Kintoyyy/MikroTik-LibreQos-Integration",
+            link: "https://libreqos.readthedocs.io/en/latest/docs/v2.0/integrations.html#mikrotik-pppoe-integration"
         },
     ],
 
@@ -82,55 +75,37 @@ const info = {
     // ============ EXPERIENCE ============
     experience: [
         {
-            position: "Network Engineer",
+            position: "Branch Manager / Network Engineer",
             company: "KGC INTERNET SERVICE PROVIDER",
             duration: "Dec 2023 - Present",
             image: "kgc.png",
             website: "https://www.facebook.com/KGCInternetService",
             descriptions: [
-                "Specializes in maintaining and troubleshooting coin-operated hotspots.",
-                "Manages network operations across three sites in Cebu: Mandaue, Talamban, and Kalunasan.",
+                "Manages network operations across three areas in Cebu: Mandaue, Talamban, and Kalunasan.",
                 "Ensures smooth operation and customer satisfaction for KGC ISP.",
                 "Plays a key role in optimizing the performance of the hotspot network."
             ]
-
         },
         {
-            position: "Remote Network Engineer",
-            company: "AZK TECH",
-            duration: "Mar 2024 - Present",
-            image: "azk.png",
-            website: "https://www.facebook.com/azk.manager",
-            descriptions: [
-                "Works as a freelance network engineer, serving clients in the Philippines and Southeast Asia.",
-                "Specializes in OLT, fiber networking, and ISP infrastructure.",
-                "Experienced in configuring and optimizing MikroTik routers for ISPs.",
-                "Manages and maintains network operations for multiple hotspot and fiber networks.",
-                "Provides remote troubleshooting and technical support for ISP clients.",
-                "Helps ISPs improve network stability, performance, and scalability."
-            ]
-        },
-        {
-            position: "Remote Network Engineer",
+            position: "Network Engineer",
             company: "JDM Fibernet",
             duration: "Jan 2025 - Present",
             image: "jdm.jpg",
             website: "https://www.facebook.com/profile.php?id=100083324767935",
             descriptions: [
-                "Backup network engineer for an ISP based in Hernani, Samar.",
+                "Network engineer for an ISP based in Hernani, Samar.",
                 "Supports internet distribution to Lorente, Borongan, Matarinao, Quinapondan, and Salcedo."
             ]
-        }
-        ,
+        },
         {
-            position: "Remote Network Engineer",
-            company: "Comsat - Internet fiber",
-            duration: "Jan 2025 - Present",
-            image: "comsat.jpg",
-            website: "https://www.facebook.com/profile.php?id=100091427718603",
+            position: "Network Engineer",
+            company: "Gstartek",
+            duration: "Mar 2025 - Present",
+            image: "gstartek.jpg",
+            website: "https://www.facebook.com/Gstarteknet",
             descriptions: [
-                "Backup network engineer for an ISP based in Compostela, Davao de Oro.",
-                "Supports internet distribution to Montevista, Nabunturan, Mawab, Maragusan, New Bataan, Cateel and Banganga."
+                "Network engineer for an ISP based in Pasay City, Metro Manila.",
+                "Supports internet distribution to Pasay City, Makati City, and Taguig City."
             ]
         }
     ],
