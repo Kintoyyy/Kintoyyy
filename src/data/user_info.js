@@ -123,8 +123,13 @@ const info = {
             "description": "Covers advanced routing concepts using MikroTik RouterOS.",
             "icon": "mikrotik",
             "link": "https://mikrotik.com/training/certificates/b296319cddaf79908a6a"
+        }, 
+        {
+            "title": "BDCOM MikroTik Certified Network Associate",
+            "description": "Covers basic networking concepts using BDCOM equipment.",
+            "icon": "server",
+            "link": "https://sites.google.com/view/bdcom-international"
         }
-
     ],
 
     // ============ CONTACT ============

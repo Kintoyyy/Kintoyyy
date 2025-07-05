@@ -3,6 +3,7 @@ import { FaLandmark } from "react-icons/fa";
 import { FaBuildingUser } from "react-icons/fa6";
 import { PiCertificateFill } from "react-icons/pi";
 import { SiMikrotik, SiCisco } from "react-icons/si";
+import { FaServer } from "react-icons/fa";
 import { BiSolidWinkSmile } from "react-icons/bi";
 function EducationAndExperience() {
   return (
@@ -70,9 +71,9 @@ function EducationAndExperience() {
                       <SiMikrotik className="absolute text-3xl text-blue-500 right-5 top-4" />
                     ) : cert.icon === "cisco" ? (
                       <SiCisco className="absolute text-3xl text-blue-500 right-5 top-3" />
-                    ) : (
-                      <BiSolidWinkSmile className="absolute text-3xl text-green-500 right-5 top-3" />
-                    )}
+                    ) : cert.icon === "server" ? (
+                      <FaServer className="absolute text-3xl text-blue-500 right-5 top-3" />
+                    ): null}
 
                     <div className="flex items-center justify-center h-full p-6 bg-gray-100 dark:bg-neutral-900">
                       <div className="hs-tooltip [--placement:bottom] inline-block">
