@@ -2,7 +2,7 @@ const info = {
     // ============ MAIN DETAILS ============
     main: {
         name: "Kent Rato",
-        description: "I'm a network engineer and software developer specializing in high-performance networking and scalable web solutions. As an MTCNA and MTCRE-certified expert, I design and optimize MikroTik networks while developing robust backend and frontend systems. With a strong foundation in IoT and cloud technologies, I create seamless integrations between networks and digital platforms.",
+        description: "I'm a network engineer specializing in high-performance networking, server infrastructure, and system integrations. As an MTCNA and MTCRE-certified expert, I design and optimize MikroTik networks while managing server deployments and cross-platform integrations. My work focuses on building reliable, scalable systems that bridge network operations with cloud and on-premise solutions.",
         role: "Network Engineer / Developer",
         photo: "../photo.jpg",
         email: "kent.oyyyyyyy@gmail.com",
@@ -93,7 +93,7 @@ const info = {
             image: "jdm.jpg",
             website: "https://www.facebook.com/profile.php?id=100083324767935",
             descriptions: [
-                "Network engineer for an ISP based in Hernani, Samar.",
+                "Network engineer for an ISP based in Hernani, Eastern Samar.",
                 "Supports internet distribution to Lorente, Borongan, Matarinao, Quinapondan, and Salcedo."
             ]
         },
@@ -107,6 +107,18 @@ const info = {
                 "Network engineer for an ISP based in Pasay City, Metro Manila.",
                 "Supports internet distribution to Pasay City, Makati City, and Taguig City."
             ]
+        },
+        {
+            position: "Network Engineer",
+            company: "JSVARTECH Fiber Internet",
+            duration: "Jun 2025 - Present",
+            image: "jsvartech.jpg",
+            website: "https://www.facebook.com/jsvartech.fiber.internet",
+            descriptions: [
+                "Network engineer for an ISP based in Camiguin Island.",
+                "Supports internet distribution across Mambajao and Sagay municipalities."
+            ]
+
         }
     ],
 
