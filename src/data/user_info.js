@@ -60,8 +60,14 @@ const info = {
     education: [
         {
             school: "CEBU INSTITUTE OF TECHNOLOGY UNIVERSITY",
+            degree: "Bachelor of Science in Information Technology",
+            duration: "2025 - Present",
+            image: "citu.png"
+        },
+        {
+            school: "CEBU INSTITUTE OF TECHNOLOGY UNIVERSITY",
             degree: "Bachelor of Science in Computer Science",
-            duration: "2023 - Present",
+            duration: "2023 - 2025",
             image: "citu.png"
         },
         {
