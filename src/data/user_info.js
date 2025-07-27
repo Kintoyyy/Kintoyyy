@@ -3,7 +3,7 @@ const info = {
     main: {
         name: "Kent Rato",
         description: "I'm a network engineer specializing in high-performance networking, server infrastructure, and system integrations. As an MTCNA and MTCRE-certified expert, I design and optimize MikroTik networks while managing server deployments and cross-platform integrations. My work focuses on building reliable, scalable systems that bridge network operations with cloud and on-premise solutions.",
-        role: "Network Engineer / Developer",
+        role: "Network Engineer / Software Engineer",
         photo: "../photo.jpg",
         email: "kent.oyyyyyyy@gmail.com",
     },
