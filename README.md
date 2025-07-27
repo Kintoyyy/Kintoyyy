@@ -10,9 +10,9 @@
   </a>
 </h1>
 
-I'm a passionate self-taught developer and network engineer based in the Philippines. With a strong foundation in backend web development and hands-on experience in the IoT (Internet of Things) space, I thrive on building robust, scalable, and innovative digital solutions.
+I'm a network engineer specializing in high-performance networking, server infrastructure, and system integrations. Based in the Philippines and certified in MTCNA and MTCRE, I design and optimize MikroTik networks to ensure reliable, scalable operations across both cloud and on-premise environments. With practical coding capabilities as a self-taught software engineer, I build backend tools, automation scripts, and API integrations that enhance network performance, streamline operations, and support IoT and multi-system deployments.
 
-I’m also a MikroTik Certified Network Associate (MTCNA) and MikroTik Certified Routing Engineer (MTCRE), specializing in configuring and optimizing MikroTik routers for high-performance networking. Whether it's designing intricate network architectures or troubleshooting complex systems, I bring a meticulous and solution-oriented approach to every project.
+
 
 
     Facebook: @Kint.oyyy
