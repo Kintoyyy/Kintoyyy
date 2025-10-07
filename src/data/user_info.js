@@ -124,8 +124,18 @@ const info = {
                 "Network engineer for an ISP based in Camiguin Island.",
                 "Supports internet distribution across Mambajao and Sagay municipalities."
             ]
-
-        }
+        },
+        {
+            position: "Network Engineer",
+            company: "PIPOL Broadband GMA Cavite",
+            duration: "Sept 2025 - Present",
+            image: "pipol.jpg",
+            website: "https://www.facebook.com/pipolbroadbandgmacavite",
+            descriptions: [
+                "Network engineer for an ISP based in Cavite.",
+                "Supports internet distribution across Alta Tierra and nearby areas."
+            ]
+        },
     ],
 
     // ============ CERTIFICATES ============
@@ -141,7 +151,7 @@ const info = {
             "description": "Covers advanced routing concepts using MikroTik RouterOS.",
             "icon": "mikrotik",
             "link": "https://mikrotik.com/training/certificates/b296319cddaf79908a6a"
-        }, 
+        },
         {
             "title": "BDCOM MikroTik Certified Network Associate",
             "description": "Covers basic networking concepts using BDCOM equipment.",
